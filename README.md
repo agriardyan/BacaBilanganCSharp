@@ -1,2 +1,2 @@
 # BacaBilanganCSharp
-C# implementation for spelling number in Indonesian
+C# implementation for spelling number in Indonesian, up to 63 scale unit (vigintillion)
