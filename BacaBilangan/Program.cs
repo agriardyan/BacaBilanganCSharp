@@ -8,10 +8,14 @@ using System.Threading.Tasks;
 namespace BacaBilangan
 {
     /**
-     * @author yanick.rochon@gmail.com [original author]
-     * @author agriardyan <aagriard@gmail.com>
+     * @author yanick.rochon@gmail.com 
+     * Originalnya dlm Java, untuk pembacaan dalam bhs Inggris, see :
+     * Source : http://stackoverflow.com/questions/3911966/how-to-convert-number-to-words-in-java
      * 
-     * */
+     * @author agriardyan <aagriard@gmail.com>
+     * Porting ke C#
+     * Modifikasi untuk bahasa Indonesia
+     */
     class Program
     {
 
